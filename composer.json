@@ -17,8 +17,8 @@
 	"map":[
 		["app/etc/modules/Hardik_Ajaxcart.xml", "app/etc/modules/Hardik_Ajaxcart.xml"],
 		["app/code/local/Hardik/Ajaxcart", "app/code/local/Hardik/Ajaxcart"],
-		["app/design/frontend/base/default/layout/ajaxcart.xml", "app/design/frontend/base/default/layout/samplemodel.xml"],
-		["app/design/frontend/base/default/template/samplemodel", "app/design/frontend/base/default/template/ajaxcart"],
+		["app/design/frontend/base/default/layout/ajaxcart.xml", "app/design/frontend/base/default/layout/ajaxcart.xml"],
+		["app/design/frontend/base/default/template/ajaxcart", "app/design/frontend/base/default/template/ajaxcart"],
 		["skin/frontend/base/default/ajaxcart", "skin/frontend/base/default/ajaxcart"]
 	]
     }
