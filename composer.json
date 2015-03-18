@@ -1,6 +1,6 @@
 {
     "name": "vmbl/ajaxcart",
-    "description": "Official Magento Plugin to connect to geoip Service Provider Adyen'.",
+    "description": "Official Magento Plugin for ajaxcart'.",
     "type": "magento-module",
     "homepage": "https://github.com/vmbl/ajaxcart",
     "license": "OSL-3.0",
